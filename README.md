@@ -29,6 +29,7 @@
   - [ ] Learn React / Django or Flask
 💬 Connect with me!
 📧 harshoncode@gmail.com
+    linkedin - https://www.linkedin.com/in/harsh-yadav-13111734b/
 
 Programming isn't about what you know; it's about what you can figure out.”
 — Chris Pine
