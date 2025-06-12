@@ -36,7 +36,7 @@ Programming isn't about what you know; it's about what you can figure out.”
 Thanks for stopping by 👾
 Stay tuned... I'm just getting started 👨‍💻🔥
 
-yam
+
 
 
 
